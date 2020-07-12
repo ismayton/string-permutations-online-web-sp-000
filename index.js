@@ -19,6 +19,5 @@ function findAllPermutations(string)
    }
    
   }
-  console.log(permutationArr)
 return permutationArr
 }
